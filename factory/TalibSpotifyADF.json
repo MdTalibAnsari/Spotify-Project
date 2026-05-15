@@ -1,0 +1,15 @@
+{
+	"name": "TalibSpotifyADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73c5780e-7660-4797-a697-bfa090f42edc",
+		"tenantId": "212f15fa-c976-42e9-858f-66c495dd1cc5"
+	}
+}
