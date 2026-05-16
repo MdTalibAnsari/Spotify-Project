@@ -12,6 +12,7 @@
 						"value": "@pipeline().parameters.look_input",
 						"type": "Expression"
 					},
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "last_cdc",
